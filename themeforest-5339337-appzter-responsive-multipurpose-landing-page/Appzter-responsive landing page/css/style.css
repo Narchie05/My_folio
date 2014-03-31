@@ -278,7 +278,9 @@ p {
 	background: linear-gradient(to bottom,  #299a0b 0%,#5bba0e 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#299a0b', endColorstr='#5bba0e',GradientType=0 ); /* IE6-9 */
 }
-
+.devmtn{
+	max-width: 70%;max-height: 50%;
+}
 /*-----------------------------------------------------------------------------------*/
 /* 4. SERVICES STYLES
 /*-----------------------------------------------------------------------------------*/
